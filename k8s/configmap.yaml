@@ -40,7 +40,7 @@ data:
       <main class="card">
         <h1>GitOps Demo App</h1>
         <p>Deployed automatically using Kubernetes and Argo CD.</p>
-        <p class="version">Version 2.0</p>
+        <p class="version">Version 1.0</p>
         <p>Deployment status: Application running</p>
       </main>
     </body>
